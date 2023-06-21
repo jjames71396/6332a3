@@ -6,3 +6,4 @@ azure-identity
 pymysql
 sqlalchemy
 redis
+pyarrow
