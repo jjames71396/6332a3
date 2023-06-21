@@ -6,4 +6,4 @@ azure-identity
 pymysql
 sqlalchemy
 redis
-pyarrow
+pyarrow==11.0.0
